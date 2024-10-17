@@ -45,7 +45,6 @@ With AI, we can:
 
 ## 🚀 Let's Dive into Code:
 
-```python
 # Quick AI Code Example: Predicting with a Trained Model
 import numpy as np
 from sklearn.linear_model import LinearRegression
